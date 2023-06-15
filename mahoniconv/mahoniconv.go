@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/axgle/mahonia"
 	"flag"
+	"github.com/zhangyiming748/mahonia"
 	"io"
 	"log"
 	"os"
